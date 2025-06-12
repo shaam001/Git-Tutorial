@@ -1,0 +1,18 @@
+step 1: Install xampp from https://www.apachefriends.org/
+step 2: Download wordpress from wordpress.org and extract the zip folder
+step 3: copy wordpress folder, go to lock disk c(where xampp is installed). navigate to xampp folder, open htdocs and paste the wordpress folder inside it
+step 4: open xampp and start Apache and MySQL
+step 5: Go to browser url -> localhost/appname
+step 6: Create a database, go to browser and type url -> localhost/phpmyadmin/ (make sure apache and MySQL is running in xampp)
+step 7: click on database tab of phpMyAdmin and name it wordpress and then click on create
+step 8: now go to localhost/wordpress and then select language and after that enter database name that you have created, and inside these fields fill username: root, password: (leave it blank), Database host: localhost, Table prefix=wp_, then click next and run installation
+step 9: fill out the next form and click on install wordpress
+
+
+// Add plugins like elementor, wp forms, ocean extra
+
+
+after installig elementor go to astra option in sidebar then click on starter template and then install it
+then select a plugin and click on continue
+install livemesh plugin for elementor
+
