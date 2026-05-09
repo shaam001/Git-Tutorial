@@ -14,5 +14,5 @@ step 9: fill out the next form and click on install wordpress
 
 after installig elementor go to astra option in sidebar then click on starter template and then install it
 then select a plugin and click on continue
-install livemesh plugin for elementor
+install livemesh plugin for elemento
 
